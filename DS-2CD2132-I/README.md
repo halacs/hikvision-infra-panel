@@ -10,3 +10,8 @@ I noticed that I drawn my PCB maybe with too thin wirings so be careful with the
 - 30 pcs 3mm 850 nm infrared LEDs
 - 1 pcs BPV10NF 5mm 950nm photodiode (or L-93DP3BT 3mm phototransistor)
 
+![](docs/IMG20240821155539.jpg)
+![](docs/IMG20240821154152.jpg)
+![](docs/IMG20240821151151.jpg)
+![](docs/PCB-1.png)
+![](docs/PCB-2.png)
